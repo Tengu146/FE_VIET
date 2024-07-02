@@ -1,0 +1,68 @@
+
+/* css homepage */
+.rounded {
+    height: 700px;
+    width: 100%;
+}
+
+.container {
+    position: relative;
+    width: fit-content;
+}
+
+.image {
+    display: block;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
